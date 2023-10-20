@@ -1,4 +1,4 @@
-# Crytpo Master
+# Crypto Master
 
 O app traz o preço de dezenas de criptomoedas obtidos em tempo real de uma base de dados, e permite que você as favorite e acompanhe sua carteira de investimentos fictícia.
 
