@@ -1,16 +1,18 @@
-# flutter_aula_1
+# Crypto Master
 
-A new Flutter project.
+O app traz o preço de dezenas de criptomoedas obtidos em tempo real de uma base de dados, e permite que você as favorite e acompanhe sua carteira de investimentos fictícia.
 
-## Getting Started
+💻 Algumas das tecnologias utilizadas foram:
 
-This project is a starting point for a Flutter application.
+- Stateless e Stateful Widgets
+- ListView e PieChart
+- Provider e Change Notifier
+- Firebase para login e cadastro de usuários
+- Requisições API com HTTP
+- Uso da câmera e da galeria
+- Ícone e Splash Screen
+- Social Share
 
-A few resources to get you started if this is your first Flutter project:
+📱 A aplicação funciona tanto para o sistema Android quanto para iOS.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O aplicativo foi desenvolvido durante o módulo 'Flutter na Prática' do curso de Desenvolvimento Mobile da Softex, oferecido pelo prof. Dr. Diego Antunes.
